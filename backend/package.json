@@ -8,7 +8,7 @@
     "build": "react-scripts build",
     "dev": "nodemon server.js"
   },
-  "author": "daksh chauhan",
+  "author": "anant aggarwal",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
